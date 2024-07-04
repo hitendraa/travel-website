@@ -23,8 +23,8 @@ Check out the live demo [here](demolink).
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/camping-travel-website.git
-    cd camping-travel-website
+    git clone https://github.com/hitendraa/travel-website.git
+    cd travel-website
     ```
 
 2. **Install dependencies**:
